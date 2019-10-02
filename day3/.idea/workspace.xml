@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4017bba5-acbb-493f-9593-05dbf0fc6bd4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8df1b2d0-7802-4e0b-827c-5d4ea0094665" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,12 +21,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1RautNrhp4B583yjecJHTbFagNZ" />
+  <component name="ProjectId" id="1RdnvZw7C6wtECn6rkExoeX1lJU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -45,13 +45,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4017bba5-acbb-493f-9593-05dbf0fc6bd4" name="Default Changelist" comment="" />
-      <created>1569917741956</created>
+      <changelist id="8df1b2d0-7802-4e0b-827c-5d4ea0094665" name="Default Changelist" comment="" />
+      <created>1570006071311</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569917741956</updated>
-      <workItem from="1569917743148" duration="7984000" />
-      <workItem from="1570006039680" duration="32000" />
+      <updated>1570006071311</updated>
+      <workItem from="1570006072375" duration="1349000" />
     </task>
     <servers />
   </component>
@@ -63,9 +62,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
