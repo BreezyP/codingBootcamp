@@ -1,0 +1,27 @@
+.restaurants{
+    color: aquamarine;
+}
+
+.restaurants h1{
+    color: blue;
+}
+
+#favorite{
+    color: blueviolet;
+}
+
+/*
+position
+width
+height
+clip
+border radius
+ */
+
+.circle{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: blueviolet;
+    border: aquamarine;
+}

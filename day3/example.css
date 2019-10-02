@@ -1,0 +1,41 @@
+
+
+#yeye {
+    color: aqua;
+}
+
+.colors {
+    color: green;
+}
+
+p {
+    color: purple;
+    border: 5px green solid;
+    padding: 40px 30px 20px 10px;
+    margin: 25px;
+
+    /* for borders padding margins
+    the numbers are ordered top // top bottom // top left right bottom for 3// top right bottom left
+     */
+}
+
+#color {
+    color: yellow;
+}
+
+.cities {
+    color: aquamarine;
+}
+
+/*
+p{
+    background-color: yellow;
+}
+*/
+
+img {
+    width: 500px;
+    height: 500px;
+}
+
+
