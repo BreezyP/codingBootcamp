@@ -1,0 +1,48 @@
+/* Add a black background color to the top navigation bar */
+/* */
+.topnav {
+    overflow: hidden;
+    background-color: darkblue;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    display: block;
+    color: #dddddd;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: aqua;
+    color: black;
+}
+
+/* Style the "active" element to highlight the current page */
+.topnav a.active {
+    background-color: aqua;
+    color: black;
+}
+
+/* Style the search box inside the navigation bar */
+.topnav input {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+}
+/* */
+.right{
+    float:  right;
+}
+
+
+
+
+/* When the screen is less than 600px wide, stack the links and the search field vertically instead of horizontally */

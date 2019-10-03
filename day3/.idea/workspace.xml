@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8df1b2d0-7802-4e0b-827c-5d4ea0094665" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/eats-styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apitest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day4/example.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day4/nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day4/nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day4/nav.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,9 +20,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -31,7 +34,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day4" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RunDashboard">
@@ -60,7 +63,8 @@
       <workItem from="1570006072375" duration="3575000" />
       <workItem from="1570009707824" duration="4885000" />
       <workItem from="1570015255213" duration="639000" />
-      <workItem from="1570018980306" duration="1906000" />
+      <workItem from="1570018980306" duration="9301000" />
+      <workItem from="1570092357366" duration="620000" />
     </task>
     <servers />
   </component>
