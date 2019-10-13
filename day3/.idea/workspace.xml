@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8df1b2d0-7802-4e0b-827c-5d4ea0094665" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/apitest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4/example.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4/nav.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4/nav.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4/nav.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day5" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RunDashboard">
@@ -65,6 +60,7 @@
       <workItem from="1570015255213" duration="639000" />
       <workItem from="1570018980306" duration="9301000" />
       <workItem from="1570092357366" duration="620000" />
+      <workItem from="1570439713574" duration="200000" />
     </task>
     <servers />
   </component>
